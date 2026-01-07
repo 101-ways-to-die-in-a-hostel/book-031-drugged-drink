@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A trusting solo traveler accepts a spiked drink from a charming stranger at the hostel bar and dies from a fatal drug overdose while being robbed.",
     "long": ""
   },
   "death_type": "Drugged Drink",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Never accept drinks from strangers. Especially friendly ones."
 }
